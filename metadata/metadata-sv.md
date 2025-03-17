@@ -24,4 +24,4 @@ Hur du överlever och blomstrar i AI-eran
 
 # Translator credits
 
-This translation was originally done by AI, and then reviewed and improved by <insert your name here>.
+This translation was originally done by AI, and then reviewed and improved by Sophia Kniberg.
